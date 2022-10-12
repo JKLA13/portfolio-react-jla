@@ -1,4 +1,4 @@
-//import
+//icon comp
 
 function SocialIcon(props) {
   const { link, icon, label } = props;
