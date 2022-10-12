@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 // import './App.css';
+import "./App.module.scss";
 import BaseLayout from "./components/BaseLayout";
 import { BrowserRouter } from "react-router-dom";
 
