@@ -71,7 +71,7 @@ export const info = {
       "html5",
       "css3",
     ],
-    exposedTo: ["adobe suite", "figma", "materialui"],
+    exposedTo: ["adobe suite", "figma", "material ui"],
   },
   hobbies: [
     {
