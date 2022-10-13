@@ -7,7 +7,7 @@ import classNames from "classnames";
 import SocialIcon from "./SocialIcon";
 import EmojiBullet from "./EmojiBullet";
 import { Box } from "@mui/material";
-import { info } from "../../info/Info";
+import { info } from "../../info/info";
 
 export default function Home() {
   return (
