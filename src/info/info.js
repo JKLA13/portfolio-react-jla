@@ -53,7 +53,7 @@ export const info = {
     },
     {
       link: "https://astrangehappening.bandcamp.com/",
-      icon: '< class="fa fa-bandcamp"></i>',
+      icon: "fa fa-bandcamp",
       label: "bandcamp",
     },
   ],
