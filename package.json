@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react-jla",
   "version": "0.1.0",
-  "homepage": "https://JKLA13.github.io/portfolio-react-jla",
+  "homepage": "https://JKLA13.github.io/portfolio-react-jla/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
