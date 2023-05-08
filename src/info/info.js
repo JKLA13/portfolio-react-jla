@@ -90,7 +90,7 @@ export const info = {
   portfolio: [
     {
       title: "ASH Band Website",
-      live: "https://astrangehappeningband.herokuapp.com/",
+      live: "https://jkla13.github.io/ash-band-page/#/",
       source: "https://github.com/JKLA13/ash-band-page",
       image: project1,
     },
