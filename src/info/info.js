@@ -6,6 +6,7 @@ import project2 from "../images/project2.png";
 import project3 from "../images/project3.PNG";
 import project4 from "../images/project4.PNG";
 import project5 from "../images/project5.PNG";
+import project6 from "../images/project6.PNG";
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -117,6 +118,12 @@ export const info = {
       live: "https://drive.google.com/file/d/1IYGVQCiYjS8uJ_ARTaEHwx4_cHr4SQiv/view?usp=sharing",
       source: "https://github.com/JKLA13/employee-management",
       image: project5,
+    },
+    {
+      title: "E-Commerce Backend",
+      live: "https://drive.google.com/file/d/https://drive.google.com/file/d/https://drive.google.com/file/d/1cN-AfSqXNxEE_u80RZUJ5_5QyTEZga5A/viewcN-AfSqXNxEE_u80RZUJ5_5QyTEZga5A/view1IYGVQCiYjS8uJ_ARTaEHwx4_cHr4SQiv/view?usphttps://drive.google.com/file/d/1cN-AfSqXNxEE_u80RZUJ5_5QyTEZga5A/view=sharing",
+      source: "https://github.com/JKLA13/ecommerce-backend",
+      image: project6,
     },
   ],
 };
