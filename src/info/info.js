@@ -6,7 +6,7 @@ import project2 from "../images/project2.png";
 import project3 from "../images/project3.PNG";
 import project4 from "../images/project4.PNG";
 import project5 from "../images/project5.PNG";
-import project6 from "../images/project6.PNG";
+import project6 from "../images/project6.png";
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
